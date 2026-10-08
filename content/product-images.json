@@ -1,0 +1,99 @@
+{
+  "matco-8-64": {
+    "image": "/products/indofil/matco-8-64.svg",
+    "imageSource": "placeholder"
+  },
+  "tag-cop": {
+    "image": "/products/tropical-agro/tag-cop.webp",
+    "imageSource": "official",
+    "imageSourceUrl": "https://tropicalagro.in/product/tag-cop/"
+  },
+  "marlett-m45": {
+    "image": "/products/coromandel/marlett-m45.svg",
+    "imageSource": "placeholder"
+  },
+  "indofil-m-45": {
+    "image": "/products/indofil/indofil-m-45.svg",
+    "imageSource": "placeholder"
+  },
+  "saaf": {
+    "image": "/products/upl/saaf.webp",
+    "imageSource": "listing",
+    "imageSourceUrl": "https://www.bighaat.com/products/upl-saaf-fungicide"
+  },
+  "contaf-plus": {
+    "image": "/products/rallis/contaf-plus.webp",
+    "imageSource": "listing",
+    "imageSourceUrl": "https://www.bighaat.com/products/contaf-plus-fungicide"
+  },
+  "nimbecidine-300": {
+    "image": "/products/t-stanes/nimbecidine-300.webp",
+    "imageSource": "listing",
+    "imageSourceUrl": "https://www.bighaat.com/products/nimbicidine-300ppm"
+  },
+  "nimbecidine-1500": {
+    "image": "/products/t-stanes/nimbecidine-1500.webp",
+    "imageSource": "official",
+    "imageSourceUrl": "https://www.tstanes.com/domestic-crop-care/insect-nematode-management/nimbecidine-1500ppm"
+  },
+  "bio-nematon": {
+    "image": "/products/t-stanes/bio-nematon.webp",
+    "imageSource": "official",
+    "imageSourceUrl": "https://www.tstanes.com/domestic-crop-care/insect-nematode-management/bionematon"
+  },
+  "ipl-bioharz": {
+    "image": "/products/ipl-biologicals/ipl-bioharz.webp",
+    "imageSource": "listing",
+    "imageSourceUrl": "https://www.bighaat.com/products/ipl-bioharz-bio-fungicides"
+  },
+  "yaramila-complex": {
+    "image": "/products/yara/yaramila-complex.svg",
+    "imageSource": "placeholder"
+  },
+  "yaramila-winner": {
+    "image": "/products/yara/yaramila-winner.svg",
+    "imageSource": "placeholder"
+  },
+  "yaraliva-nitrabor": {
+    "image": "/products/yara/yaraliva-nitrabor.svg",
+    "imageSource": "placeholder"
+  },
+  "factamfos-20-20-0-13": {
+    "image": "/products/fact/factamfos-20-20-0-13.webp",
+    "imageSource": "official",
+    "imageSourceUrl": "https://fact.co.in/home/Dynamicpages?MenuId=225"
+  },
+  "iffco-nano-urea-plus": {
+    "image": "/products/iffco/iffco-nano-urea-plus.svg",
+    "imageSource": "placeholder"
+  },
+  "macrofert-20-20-20": {
+    "image": "/products/aries-agro/macrofert-20-20-20.svg",
+    "imageSource": "placeholder"
+  },
+  "mahadhan-zn-edta": {
+    "image": "/products/mahadhan/mahadhan-zn-edta.webp",
+    "imageSource": "listing",
+    "imageSourceUrl": "https://www.bighaat.com/products/mahadhan-chelated-zn-domestic-micronutrient-fertilizer"
+  },
+  "mahadhan-dot": {
+    "image": "/products/mahadhan/mahadhan-dot.svg",
+    "imageSource": "placeholder"
+  },
+  "agromin": {
+    "image": "/products/aries-agro/agromin.svg",
+    "imageSource": "placeholder"
+  },
+  "arecanut-mangala-sumangala-sreemangala": {
+    "image": "/products/icar-cpcri/arecanut-mangala-sumangala-sreemangala.svg",
+    "imageSource": "placeholder"
+  },
+  "arecanut-dwarf-hybrids-vtlah": {
+    "image": "/products/icar-cpcri/arecanut-dwarf-hybrids-vtlah.svg",
+    "imageSource": "placeholder"
+  },
+  "cocoa-planting-material": {
+    "image": "/products/icar-cpcri/cocoa-planting-material.svg",
+    "imageSource": "placeholder"
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Macrofert 20-20-20 — image coming soon">
+  <rect width="600" height="600" fill="#EFE6D2"/>
+  <rect x="24" y="24" width="552" height="552" rx="28" fill="none" stroke="#1E2A1F" stroke-opacity=".08" stroke-width="2"/>
+  <g transform="translate(240 110)"><circle cx="60" cy="60" r="58" fill="#FAF7F0"/><path d="M36 40h48l-6 50H42zM44 40c0-8 7-14 16-14s16 6 16 14" fill="none" stroke="#B5651D" stroke-width="4" stroke-linejoin="round"/></g>
+  <text x="300" y="330" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-weight="700" font-size="40" fill="#1E2A1F"><tspan x="300" dy="0">Macrofert 20-20-20</tspan></text>
+  <text x="300" y="400" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="24" fill="#6B7066">Aries Agro</text>
+  <text x="300" y="540" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-weight="700" font-size="18" letter-spacing="3" fill="#B5651D">IMAGE COMING SOON</text>
+</svg>

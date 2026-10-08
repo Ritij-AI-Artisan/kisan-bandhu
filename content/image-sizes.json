@@ -1,0 +1,166 @@
+{
+ "/images/about/idukki-hills.webp": {
+  "width": 2400,
+  "height": 1600
+ },
+ "/images/about/karnataka-paddy.webp": {
+  "width": 2400,
+  "height": 1350
+ },
+ "/images/about/kerala-paddy.webp": {
+  "width": 2400,
+  "height": 1563
+ },
+ "/images/about/sahyadri.webp": {
+  "width": 2400,
+  "height": 1800
+ },
+ "/images/about/western-ghats.webp": {
+  "width": 2400,
+  "height": 1800
+ },
+ "/images/crops/arecanut-bunch.webp": {
+  "width": 2400,
+  "height": 2400
+ },
+ "/images/crops/arecanut-drying.webp": {
+  "width": 2400,
+  "height": 1800
+ },
+ "/images/crops/arecanut-ripe.webp": {
+  "width": 2048,
+  "height": 1536
+ },
+ "/images/crops/cashew-apples.webp": {
+  "width": 2400,
+  "height": 1877
+ },
+ "/images/crops/cashew-nuts.webp": {
+  "width": 2400,
+  "height": 1795
+ },
+ "/images/crops/coconut-farm.webp": {
+  "width": 2400,
+  "height": 1800
+ },
+ "/images/crops/coffee-cherries.webp": {
+  "width": 2400,
+  "height": 2400
+ },
+ "/images/crops/coffee-estate.webp": {
+  "width": 2400,
+  "height": 3268
+ },
+ "/images/crops/pepper-poles.webp": {
+  "width": 2400,
+  "height": 1600
+ },
+ "/images/crops/pepper-vine.webp": {
+  "width": 2400,
+  "height": 3200
+ },
+ "/images/hero/areca-mist-coorg.webp": {
+  "width": 1920,
+  "height": 1280
+ },
+ "/images/hero/areca-palms.webp": {
+  "width": 1920,
+  "height": 1081
+ },
+ "/images/hero/coconut-grove.webp": {
+  "width": 1920,
+  "height": 1440
+ },
+ "/images/hero/coffee-pepper-shade.webp": {
+  "width": 1920,
+  "height": 2880
+ },
+ "/images/hero/farmer-portrait.webp": {
+  "width": 1920,
+  "height": 2880
+ },
+ "/images/hero/village.webp": {
+  "width": 1920,
+  "height": 1440
+ },
+ "/images/hubs/arecanut-heap.webp": {
+  "width": 1944,
+  "height": 2592
+ },
+ "/images/hubs/drying-yard.webp": {
+  "width": 2400,
+  "height": 1600
+ },
+ "/images/hubs/market.webp": {
+  "width": 2400,
+  "height": 1600
+ },
+ "/images/hubs/storage.webp": {
+  "width": 2400,
+  "height": 1600
+ },
+ "/images/hubs/weighing.webp": {
+  "width": 2048,
+  "height": 1365
+ },
+ "/images/people/coconut-climber.webp": {
+  "width": 2400,
+  "height": 1800
+ },
+ "/images/people/tree-climber.webp": {
+  "width": 2400,
+  "height": 3200
+ },
+ "/images/people/woman-farmer.webp": {
+  "width": 2400,
+  "height": 3600
+ },
+ "/images/services/climber.webp": {
+  "width": 2400,
+  "height": 3200
+ },
+ "/images/services/drone.webp": {
+  "width": 1800,
+  "height": 1200
+ },
+ "/images/services/harvest-crew.webp": {
+  "width": 2400,
+  "height": 1600
+ },
+ "/images/services/hub-copra.webp": {
+  "width": 1500,
+  "height": 1044
+ },
+ "/images/services/inputs-seedling.webp": {
+  "width": 2400,
+  "height": 1800
+ },
+ "/images/services/jobs-operator.webp": {
+  "width": 2400,
+  "height": 1800
+ },
+ "/images/services/leaf-disease.webp": {
+  "width": 1920,
+  "height": 2560
+ },
+ "/images/services/tractor.webp": {
+  "width": 2400,
+  "height": 1538
+ },
+ "/images/textures/husk.webp": {
+  "width": 2400,
+  "height": 1350
+ },
+ "/images/textures/leaf-vein.webp": {
+  "width": 2400,
+  "height": 1352
+ },
+ "/images/textures/leaf.webp": {
+  "width": 1943,
+  "height": 1943
+ },
+ "/images/textures/soil.webp": {
+  "width": 2400,
+  "height": 1600
+ }
+}

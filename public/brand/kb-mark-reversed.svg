@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="304 168 152 156" role="img" aria-label="Kisan Bandhu">
+  <path d="M378 213C380 193 404 178 433 177C432 200 414 216 378 220Z" fill="#FFFFFF"/>
+  <path d="M381 240C362 241 339 228 333 205C356 202 376 213 381 232Z" fill="#FFFFFF"/>
+  <rect x="375" y="203" width="10" height="92" rx="5" fill="#FFFFFF"/>
+  <path d="M327 255A53 48 0 0 0 380 303" fill="none" stroke="#FFFFFF" stroke-width="28"/>
+  <circle cx="327" cy="255" r="14" fill="#FFFFFF"/>
+  <path d="M380 303A53 48 0 0 0 433 255" fill="none" stroke="#F2A900" stroke-width="28"/>
+  <circle cx="433" cy="255" r="14" fill="#F2A900"/>
+</svg>
